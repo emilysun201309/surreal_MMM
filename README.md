@@ -1,2 +1,2 @@
 # surreal_MMM
-rending MMM data format using surreal code
+rendering MMM data format using surreal code
